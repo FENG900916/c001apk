@@ -1,6 +1,6 @@
 # c001apk
 
-fake coolapk
+fork coolapk
 
 Token/LoginUtil from: [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou)
 
